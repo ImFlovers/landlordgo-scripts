@@ -25,34 +25,34 @@
 
 ## LandlordGO SCRIPTS
 
-🔮✨ This repository contains a collection of powerful scripts designed to enhance your LandlordGO gaming experience. Unleash their magical power to reach new heights in the game. ✨🔮
+🔮✨ This repository contains a set of powerful scripts designed to enhance your gaming experience in LandlordGO. Unleash their magical power to reach new heights in the game. ✨🔮
 
-⚠️ Disclaimer: These scripts are intended for personal use only. Please note that explicit use of scripts may result in consequences, including account bans. Data parsing is done at your own risk and is not recommended for primary accounts. ⚠️
+⚠️ Disclaimer: These scripts are intended for personal use only. Please note that open and aggressive use of scripts may have consequences, including account bans. Data parsing is performed at your own risk and is not recommended for main accounts. ⚠️
 
 ### Explore the World of Scripts
 
 🔍🌎
 
-1. Data Parsing: Extract valuable information by parsing data from the game map. Discover hidden treasures and make informed decisions. 🗺️💎
+1. Data Parsing (category_parser.py, allCategory_parser.py, leader_parser.py | Find desired objects, their categories, and the number of available actions): Extract valuable information by parsing data from the game map. Discover hidden treasures and make informed decisions. WARNING: USES API TOKEN, CAN STRAIN GAME SERVERS 🗺️💎
 
-2. Advertising Bot: Automate the process of collecting rewards from advertisements. Maximize your profits effortlessly. 🤖💰
+2. Advertising Bot (multi_autoloot.py | Bypass advertisement on rewards): Automate the process of collecting rewards from advertisements without watching them. Maximize your profit effortlessly. WARNING: USES BYPASS API 🤖💰
 
-3. Agent Acceleration: Speed up your actions within the game using these scripts. Gain a competitive edge with increased efficiency. ⚡💨
+3. Agent Acceleration (traveler.py | Bypass advertisement on agent acceleration): Speed up actions in the game using these scripts. Gain a competitive advantage with increased efficiency. WARNING: USES BYPASS API 🤖💰 ⚡💨
 
-4. Account Monitoring: Stay updated on your LandlordGO account activity using monitoring scripts. Keep track of your performance and progress. 👀📊
+4. Account Monitoring (info.py | Simple account statistics monitoring): Stay informed about your LandlordGO account activity using monitoring scripts. Track your results and progress. 👀📊
 
 ### Obtaining the Token
 
 🔑📲
 
-To utilize these scripts, you need to obtain a unique token. Follow these steps:
+To use these scripts, you need to obtain a unique token. Follow these instructions:
 
-1. Ensure that you specify the token separately in the headers of each script.
+1. Make sure you specify the token separately in the headers of each script.
 2. To obtain the token, you will need a tool like Charles Proxy to intercept network data from your mobile device.
-3. Analyze the intercepted data to find the token, typically located in the headers or requests.
+3. Analyze the intercepted data to find the token, which is usually located in the headers or requests.
 4. Copy the token and provide it in the headers of each script for proper authentication.
 
-Please be aware that obtaining tokens through unauthorized means violates the game's terms of service. Use these scripts responsibly for personal use only. 🚫🚔
+Please note that obtaining tokens through unauthorized means violates the game's terms of service. Use these scripts responsibly for personal use only. 🚫🚔
 
 ## LandlordGO СКРИПТЫ
 
@@ -64,11 +64,11 @@ Please be aware that obtaining tokens through unauthorized means violates the ga
 
 🔍🌎
 
-1. Парсинг данных (parser.py и allparser.py | Ищем нужные нам объекты, их категории и кол-во доступных акций): Извлекайте ценную информацию, выполняя парсинг данных с карты игры.Обнаруживайте скрытые сокровища и принимайте обоснованные решения. 🗺️💎
+1. Парсинг данных (category_parser.py, allCategory_parser.py, leader_parser.py | Ищем нужные нам объекты, их категории и кол-во доступных акций): Извлекайте ценную информацию, выполняя парсинг данных с карты игры.Обнаруживайте скрытые сокровища и принимайте обоснованные решения. WARNING: ИСПОЛЬЗУЕТ API ТОКЕН, СИЛЬНО НАГРУЖАЕТ СЕРВЕРА ИГРЫ 🗺️💎
 
-2. Бот для фарма рекламы (multi_autoloot.py | Обход рекламы на наградах ): Автоматизируйте процесс сбора вознаграждений от рекламы не смотря её. Максимизируйте свою прибыль без усилий. WARNING: ИСПОЛЬЗУЕТ ОБХОД ТОКЕНОВ API 🤖💰
+2. Бот для фарма рекламы (multi_autoloot.py | Обход рекламы на наградах ): Автоматизируйте процесс сбора вознаграждений от рекламы не смотря её. Максимизируйте свою прибыль без усилий. WARNING: ИСПОЛЬЗУЕТ ОБХОД API 🤖💰
 
-3. Ускорение агента (traveler.py | Обход рекламы на ускорении агента): Ускорьте выполнение действий в игре с помощью этих скриптов. Получите конкурентное преимущество с повышенной эффективностью. WARNING: ИСПОЛЬЗУЕТ ОБХОД ТОКЕНОВ API 🤖💰 ⚡💨
+3. Ускорение агента (traveler.py | Обход рекламы на ускорении агента): Ускорьте выполнение действий в игре с помощью этих скриптов. Получите конкурентное преимущество с повышенной эффективностью. WARNING: ИСПОЛЬЗУЕТ ОБХОД API 🤖💰 ⚡💨
 
 4. Мониторинг аккаунта (info.py | Простой мониторинг статистики аккаунта): Будьте в курсе активности вашего аккаунта LandlordGO с помощью скриптов мониторинга. Отслеживайте свои результаты и прогресс. 👀📊
 
