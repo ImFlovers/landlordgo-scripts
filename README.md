@@ -23,7 +23,7 @@
 |_|    |_|\___/ \_/ \___|_|  |___/
                                   
 
-## LandlordGO SCRIPTS
+## LandlordGO | SCRIPTS
 
 🔮✨ This repository contains a set of powerful scripts designed to enhance your gaming experience in LandlordGO. Unleash their magical power to reach new heights in the game. ✨🔮
 
@@ -54,7 +54,7 @@ To use these scripts, you need to obtain a unique token. Follow these instructio
 
 Please note that obtaining tokens through unauthorized means violates the game's terms of service. Use these scripts responsibly for personal use only. 🚫🚔
 
-## LandlordGO СКРИПТЫ
+## LandlordGO | СКРИПТЫ
 
 🔮✨ Данный репозиторий содержит набор мощных скриптов, разработанных для улучшения игрового опыта в LandLord GO. Раскройте их волшебную силу, чтобы достичь новых высот в игре. ✨🔮
 
