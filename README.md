@@ -1,6 +1,7 @@
 # landlordgo-scripts
 "LandlordGo-Scripts" is a repository with a collection of scripts for data parsing, advertising bot farming, agent acceleration, and account monitoring in the LandlordGo game. Automate tasks, enhance gameplay efficiency.
 
+```
  _                     _ _                   _    _____  ____           
 | |                   | | |                 | |  / ____|/ __ \          
 | |     __ _ _ __   __| | |     ___  _ __ __| | | |  __| |  | |  ______ 
@@ -21,6 +22,7 @@
 |  __| | |/ _ \ \ / / _ \ '__/ __|
 | |    | | (_) \ V /  __/ |  \__ \
 |_|    |_|\___/ \_/ \___|_|  |___/
+```
                                   
 
 ## LandlordGO | SCRIPTS
